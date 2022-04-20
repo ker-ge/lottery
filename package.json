@@ -1,0 +1,14 @@
+{
+  "name": "caipiao-node",
+  "version": "1.0.0",
+  "description": "caipiao 500彩票",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js",
+    "dev": "node ./index.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "xml2js": "^0.4.23"
+  }
+}
